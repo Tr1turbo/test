@@ -2,7 +2,7 @@
   "name": "com.triturbo.blendshare",
   "displayName": "BlendShare",
   "version": "0.0.5",
-  "description": "BlendShare is an Unity package designed for creators who need to share blendshapes without distributing the original FBX files.\n\nThis tool enables the extraction of blendshapes from FBX files and stores them in a custom asset format.\nThese assets can be easily shared and applied to compatible FBX files.",
+  "description": "",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
